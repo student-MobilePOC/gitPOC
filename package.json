@@ -1,0 +1,26 @@
+{
+  "name": "calculate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && cucumber-js features/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^4.1.7",
+    "@types/cucumber": "^4.0.7",
+    "@types/dropboxjs": "0.0.29",
+    "@types/filesystem": "0.0.29",
+    "@types/node": "^12.6.8",
+    "browserfs": "^1.4.3",
+    "chai": "^4.2.0",
+    "cucumber": "^5.1.0",
+    "isomorphic-git": "^0.57.1"
+  },
+  "dependencies": {}
+}
+
+sti
